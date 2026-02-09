@@ -1,4 +1,4 @@
-# LLaDA2.0: Scaling Up Diffusion Language Models to 100B
+# LLaDA2.X: A Series of Large Diffusion Language Models (from LLaDA2.0 to LLaDA2.1 and onwards...)
 
 <h4 align="center">
   
@@ -8,8 +8,14 @@
 )](https://huggingface.co/collections/inclusionAI/llada-20)
 [![tech report](https://img.shields.io/badge/llada2.0-tech%20report-green
 )](./tech_report.pdf)
-
+[![tech report_2_1](https://img.shields.io/badge/llada2.1-tech%20report-green
+)](./llada2_1_tech_report.pdf)
 </h4>
+
+## 🌟 What's New
+- **[2026/02]** 🚀 We released **LLaDA2.1: Speeding Up Text Diffusion via Token Editing**!
+- **[2025/11]** 🔥 We released **LLaDA2.0**, the first diffusion language model scaled to 100B parameters, featuring MoE architecture and exceptional performance.
+
 
 ## Model Introduction
 
@@ -30,6 +36,8 @@ We are thrilled to introduce **LLaDA2.0**, a milestone series of discrete diffus
 
 | Model ID | Description | Hugging Face Link |
 | --- | --- | --- |
+| `inclusionAI/LLaDA2.1-mini` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.1-mini) |
+| `inclusionAI/LLaDA2.1-flash` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.1-flash) |
 | `inclusionAI/LLaDA2.0-mini` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-mini) |
 | `inclusionAI/LLaDA2.0-flash` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-flash) |
 | `inclusionAI/LLaDA2.0-mini-CAP` | Enhanced with Confidence-Aware Parallel, for efficient inference. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-mini-CAP) |
