@@ -6,6 +6,8 @@
 [![repo](https://img.shields.io/badge/dinfer-repo-yellow?logo=github)](https://github.com/inclusionAI/dInfer)
 [![models](https://img.shields.io/badge/llada2.0-models-red?logo=huggingface
 )](https://huggingface.co/collections/inclusionAI/llada-20)
+[![models](https://img.shields.io/badge/llada2.1-models-red?logo=huggingface
+)](https://huggingface.co/collections/inclusionAI/llada-21)
 [![tech report](https://img.shields.io/badge/llada2.0-tech%20report-green
 )](./tech_report.pdf)
 [![tech report_2_1](https://img.shields.io/badge/llada2.1-tech%20report-green
