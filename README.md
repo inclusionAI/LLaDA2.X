@@ -1,22 +1,23 @@
-# LLaDA2.X: A Series of Large Diffusion Language Models (from LLaDA2.0 to LLaDA2.1 and onwards...)
+# LLaDA2.X: A Series of Large Diffusion Language Models (from LLaDA2.0 to LLaDA2.2 and onwards...)
 
 <h4 align="center">
   
 [![repo](https://img.shields.io/badge/dfactory-repo-blue?logo=github)](https://github.com/inclusionAI/dFactory)
 [![repo](https://img.shields.io/badge/dinfer-repo-yellow?logo=github)](https://github.com/inclusionAI/dInfer)
 [![models](https://img.shields.io/badge/llada2.0-models-red?logo=huggingface
-)](https://huggingface.co/collections/inclusionAI/llada-20)
+)](https://huggingface.co/collections/inclusionAI/llada20)
 [![models](https://img.shields.io/badge/llada2.1-models-red?logo=huggingface
-)](https://huggingface.co/collections/inclusionAI/llada-21)
-[![tech report](https://img.shields.io/badge/llada2.0-tech%20report-green
-)](./tech_report.pdf)
-[![tech report_2_1](https://img.shields.io/badge/llada2.1-tech%20report-green
-)](./llada2_1_tech_report.pdf)
+)](https://huggingface.co/collections/inclusionAI/llada21)
+[![models](https://img.shields.io/badge/llada2.2-models-red?logo=huggingface
+)](https://huggingface.co/collections/inclusionAI/llada22)
+[![tech report](https://img.shields.io/badge/llada2.2-tech%20report-green
+)](./LLaDA2_2_tech_report.pdf)
 </h4>
 
 ## 🌟 What's New
-- **[2026/02]** 🚀 We released **LLaDA2.1: Speeding Up Text Diffusion via Token Editing**!
-- **[2025/11]** 🔥 We released **LLaDA2.0**, the first diffusion language model scaled to 100B parameters, featuring MoE architecture and exceptional performance.
+- **[2026/07]** 🚀 We released **LLaDA2.2: Enabling Agentic Diffusion Language Models via Levenshtein Editing**!
+- **[2026/02]** We released **LLaDA2.1: Speeding Up Text Diffusion via Token Editing**!
+- **[2025/11]** We released **LLaDA2.0**, the first diffusion language model scaled to 100B parameters, featuring MoE architecture and exceptional performance.
 
 
 ## Model Introduction
@@ -38,6 +39,7 @@ We are thrilled to introduce **LLaDA2.0**, a milestone series of discrete diffus
 
 | Model ID | Description | Hugging Face Link |
 | --- | --- | --- |
+| `inclusionAI/LLaDA2.2-flash` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.2-flash) |
 | `inclusionAI/LLaDA2.1-mini` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.1-mini) |
 | `inclusionAI/LLaDA2.1-flash` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.1-flash) |
 | `inclusionAI/LLaDA2.0-mini` | Instruction-tuned model, ready for downstream applications. | [🤗 Model Card](https://huggingface.co/inclusionAI/LLaDA2.0-mini) |
